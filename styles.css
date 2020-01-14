@@ -1,0 +1,58 @@
+html { 
+    background: url(images/Background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "-apple-system ", Helvetica, Arial, sans-serif;
+  }
+  img{
+    margin-top: 30px;
+    width: 17%;
+  }
+  .text-container{
+    font-size: 29px;
+    margin-top: 300px;
+    margin: 300px,0px,0px, 100px;
+    margin-left: 100px;
+  }
+  .text{
+    color: #FFF;
+  }
+
+  .sub-text {
+    color: #FFF;
+  }
+
+  .Email{
+    color:#4064d7;
+  }
+
+  .p-number{
+    color:#4064d7;
+  }
+
+  .count-text {
+    font-size: 100px;
+    color: #A0001E;
+    background-color: #ffffff;  
+    /*border: 1px solid #EAEAEA;*/
+    display: flex;
+    justify-content: center;
+  }
+  .clock-container {
+    font-size: 125px;
+    color:#FFF;
+    /*background-color: #ffffff;  /* White */
+    /* border: 1px solid #EAEAEA; */
+    padding: 20px 0;
+    display: flex;
+    /* justify-content: center; */
+    margin-left: 100px;
+    
+  }
