@@ -12,8 +12,9 @@ html {
     font-family: "-apple-system ", Helvetica, Arial, sans-serif;
   }
   img{
-    margin-top: 100px;
+    margin-top: 30px;
     width: 17%;
+    margin-left: 100px;
   }
   .text-container{
     font-size: 29px;
