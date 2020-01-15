@@ -42,18 +42,14 @@ html {
     font-size: 100px;
     color: #A0001E;
     background-color: #ffffff;  
-    /*border: 1px solid #EAEAEA;*/
     display: flex;
     justify-content: center;
   }
   .clock-container {
     font-size: 125px;
     color:#FFF;
-    /*background-color: #ffffff;  /* White */
-    /* border: 1px solid #EAEAEA; */
     padding: 20px 0;
     display: flex;
-    /* justify-content: center; */
     margin-left: 100px;
     
   }
