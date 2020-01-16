@@ -9,7 +9,8 @@ html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "-apple-system ", Helvetica, Arial, sans-serif;
+    /* font-family: "-apple-system ", Helvetica, Arial, sans-serif; */
+    font-family: 'Open Sans', sans-serif;
   }
   img{
     margin-top: 30px;
